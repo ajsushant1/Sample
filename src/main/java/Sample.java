@@ -7,4 +7,8 @@ public class Sample {
     public String printMessage(String message) {
         return "Hello "+message;
     }
+
+    public int getAddition(int a, int b) {
+        return a+b;
+    }
 }
