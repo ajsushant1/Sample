@@ -4,7 +4,7 @@ public class Sample {
     public static void main(String[] args) {
 
     }
-
+    //comment by Sushant
     public String printMessage(String message) {
         return "Hello "+message;
     }
