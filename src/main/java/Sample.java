@@ -6,7 +6,7 @@ public class Sample {
     }
     //comment by Sushant
     public String printMessage(String message) {
-        return "Hello "+message;
+        retur "Hello "+message;
     }
 
     public int getAddition(int a, int b) {
